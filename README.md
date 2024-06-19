@@ -44,6 +44,6 @@ The code performs the following tasks:
 3. The code is written in a single Python file (*.py). Run the script to execute the data analysis, model training, and prediction functionalities.
 
 ## Future Enhancements
-- `Explore other machine learning models beyond Linear Regression (e.g., Random Forest, Gradient Boosting).`
-- `Implement hyperparameter tuning to improve model performance.`
-- `Develop a user-friendly interface for interactive cost prediction.`
+- Explore other machine learning models beyond Linear Regression (e.g., Random Forest, Gradient Boosting).
+- Implement hyperparameter tuning to improve model performance.
+- Develop a user-friendly interface for interactive cost prediction.
